@@ -1,8 +1,6 @@
 #-------------------------------------------------------------------------------#
 # Module dedicated to Pneumonia Detection on Keras Model                        #
-# Part: Main functions and Procedures                                           #
-# Date of preparation: 2019 07 16–26                                            #
-# © Vytautas Bielinskas                                                         #
+# Part: Main functions and Procedures                                           #                                                     #
 #-------------------------------------------------------------------------------#
 
 
